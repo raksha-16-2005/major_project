@@ -8,8 +8,6 @@ branches) and a unified, auto-tuning trainer.*
 **Code in this folder (`code/`):**
 `student.py` · `distill.py` · `train.py` · `utils.py` (shared infra) · `02_train_baseline.py` · `03_train_distill.py`
 
-> This is the **heart of the project**. If you own this part, you own "the model and the distillation."
-
 ---
 
 ## 1. What this part does
